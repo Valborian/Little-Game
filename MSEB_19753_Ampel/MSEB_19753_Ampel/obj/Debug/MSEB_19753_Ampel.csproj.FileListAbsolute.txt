@@ -1,0 +1,11 @@
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\bin\Debug\MSEB_19753_Ampel.exe.config
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\bin\Debug\MSEB_19753_Ampel.exe
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\bin\Debug\MSEB_19753_Ampel.pdb
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.csproj.AssemblyReference.cache
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.csproj.SuggestedBindingRedirects.cache
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.Form1.resources
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.Properties.Resources.resources
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.csproj.GenerateResource.cache
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.csproj.CoreCompileInputs.cache
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.exe
+C:\Users\shoot\source\repos\MSEB_19753_Ampel\MSEB_19753_Ampel\obj\Debug\MSEB_19753_Ampel.pdb
